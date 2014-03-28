@@ -1,0 +1,2 @@
+1. Guess the most common letter from the list of n-letter words in the dictionary (where n is the length of the hidden word). If more than one letter has the same frequency, guess the most common in dictionary frequency.
+2. Filter out non-matching words as letters are guessed.

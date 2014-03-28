@@ -1,0 +1,24 @@
+bumblebee$ java PlayHangman -f words.txt comaker cumulate eruptive factual monadism mus nagging oses remembered spodumenes stereoisomers toxics trichromats triose uniformed -clk
+[CLK][1][1373580188144] Multiple hangman games
+[CLK][2][1373580188144][0][0] Start multiple inits
+[CLK][3][1373580190104][1960][1960] End multiple inits
+[CLK][4][1373580190104][1960][0] Start multiple runs
+[CLK][5][1373580190566][2422][462] End multiple runs
+COMAKER: 8
+CUMULATE: 7
+ERUPTIVE: 5
+FACTUAL: 7
+MONADISM: 7
+MUS: 8
+NAGGING: 6
+OSES: 6
+REMEMBERED: 4
+SPODUMENES: 4
+STEREOISOMERS: 3
+TOXICS: 8
+TRICHROMATS: 5
+TRIOSE: 7
+UNIFORMED: 8
+Given 15 words, average word score is: 6.2
+[CLK][6][1373580190567][2423][1] End multiple scoring
+[CLK] For 15 games, total time was 2423.0 ms, average time per game including initializations was 161.53333333333333 ms

@@ -1,0 +1,26 @@
+Playing Hangman!!
+secret: stereoisomers
+letter freq queue: [e, i, s, n, t, a, o, r, l, c, p, m, u, g, d, h, y, b, v, f, z, x, k, w, q, j]
+This is the set of all guessed letters so far: []
+GuessLetter[E]
+Guessed so far: -------------
+--E-E-----E--; score=1; status=KEEP_GUESSING
+Made a correct guess 
+
+removing 7827 words from correct guess
+wordSet size is now: 8
+wordSet is: [overeagerness, stereoisomers, sceneshifters, woebegoneness, overengineers, presettlement, preretirement, skeletonizers]
+letter freq queue: [e, s, r, n, t, o, i, m, g, p, v, l, z, w, h, k, a, c, b, f]
+This is the set of all guessed letters so far: [E]
+GuessLetter[S]
+Guessed so far: --E-E-----E--
+S-E-E--S--E-S; score=2; status=KEEP_GUESSING
+Made a correct guess 
+
+removing 7 words from correct guess
+wordSet size is now: 1
+wordSet is: [stereoisomers]
+letter freq queue: [s, e, r, o, t, i, m]
+GuessWord[STEREOISOMERS]
+Guessed so far: S-E-E--S--E-S
+STEREOISOMERS; score=2; status=GAME_WON
